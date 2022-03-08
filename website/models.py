@@ -25,4 +25,3 @@ class Folder(db.Model):
     notes = db.relationship('Note')
 
 
-    #models.py
